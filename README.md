@@ -54,3 +54,9 @@ This repository contains two Python scripts for the Module 5 assignment of the T
   - Catches FileNotFoundError for issues opening output.txt.
   - Catches IOError for file operation failures.
   - Catches general exceptions for unexpected errors.
+
+## Notes
+
+- Ensure Python is installed and added to your system's PATH.
+
+- Test the scripts with various scenarios (e.g., missing file, invalid permissions) to verify robustness.
